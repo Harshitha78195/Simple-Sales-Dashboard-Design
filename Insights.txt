@@ -1,0 +1,10 @@
+# Sales Dashboard Insights
+
+1. Regional Performance:
+"The West region consistently shows the highest sales across all months"
+
+2. Product Category Analysis:
+"Technology products generate the largest share of total sales at 45%"
+
+3. Seasonal Trends:
+"Sales peak in November-December, likely due to holiday shopping"
